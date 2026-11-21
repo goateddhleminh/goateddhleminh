@@ -1,16 +1,13 @@
 <div align="center">
 
-  <!-- DYNAMIC BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,30&height=220&section=header&text=Minh%20Le&fontSize=62&fontAlignY=36&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header Banner" />
-
-  <!-- ANIMATED TYPING HEADER -->
-  <a href="https://huynhleminh.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Minh+Le+%F0%9F%91%8B;Student+%26+Freelance+Developer+%F0%9F%92%BB;Pursuing+CS+Major+%40+HCMUS+%F0%9F%8E%93;Welcome+to+my+GitHub+Profile!+%E2%9C%A8" alt="Typing SVG" />
+  <!-- Typing Header -->
+  <a href="https://github.com/goateddhleminh">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+there%2C+I'm+Minh+Le+%F0%9F%91%8B;CS+Student+%40+HCMUS+%7C+Freelancer;Welcome+to+my+digital+space+%E2%9C%A8" alt="Typing SVG" />
   </a>
 
-  <br/>
+  <br />
 
-  <!-- SOCIAL BADGES ROW (Clean, No IDs) -->
+  <!-- Social Badges Row -->
   <p align="center">
     <a href="https://huynhleminh.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
@@ -28,13 +25,21 @@
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
     </a>
     <a href="https://looksmax.org/members/5feet9manlet.351791/" target="_blank">
-      <img src="https://img.shields.io/badge/Looksmax.org-1A1A1A?style=for-the-badge&logo=discourse&logoColor=00FFFF" alt="Looksmax.org" />
+      <img src="https://img.shields.io/badge/Looksmax.org-111111?style=for-the-badge&logo=discourse&logoColor=white" alt="Looksmax.org" />
     </a>
   </p>
 
+  <!-- Tagline / Bio Bar (From Screenshot) -->
+  <h3>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22px" style="display:none;" />
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="26">
+    &nbsp;👱&nbsp; Huynh Le Minh &nbsp;|&nbsp; 💻 Full Stack Developer &nbsp;|&nbsp; 🛸 Sai Gon , Vietnam &nbsp;
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="26">
+  </h3>
+
 </div>
 
----
+<hr />
 
 ### 💫 About Me
 
@@ -51,9 +56,9 @@ const developer = {
 };
 ```
 
-* 🔭 **Currently working on:** Upcoming Project  
-* 🌱 **Exploring:** Modern full-stack paradigms & cloud infrastructure  
-* 💬 **Ask me about:** JavaScript, Python, React, and GCP  
+* 🔭 **Currently working on:** Upcoming Project
+* 🌱 **Exploring:** Modern full-stack paradigms & cloud infrastructure
+* 💬 **Ask me about:** JavaScript, Python, React, and GCP
 
 ---
 
@@ -63,7 +68,7 @@ const developer = {
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,npm,git,gcp" alt="Tech Stack Icons" />
 </div>
 
-<br/>
+<br />
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -76,11 +81,5 @@ const developer = {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=goateddhleminh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews,prs_merged,merged_prs" alt="Minh Le GitHub Stats" height="190" />
-</div>
-
----
-
-<div align="center">
-  <sub>Built with care by <a href="https://github.com/goateddhleminh">Minh Le</a></sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=goateddhleminh&show_icons=true&hide_title=true&count_private=true&hide=issues,stars&theme=tokyonight&border_color=61AFEF&bg_color=0D1117" alt="GitHub Stats" height="165" />
 </div>
